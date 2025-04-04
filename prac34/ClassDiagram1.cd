@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="prac34.Software">
+    <Position X="4.75" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAIAAQAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Software.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prac34.FreeSoftware">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>FreeSoftware.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prac34.CommercialSoftware">
+    <Position X="2.75" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAACAAAAAAIAAAAAAAAAAABAAAAAAAAAAg=</HashCode>
+      <FileName>CommercialSoftware.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prac34.TrialSoftware">
+    <Position X="7" Y="1.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAIAAAAAAAAAAABAAAAAAQAAAA=</HashCode>
+      <FileName>TrialSoftware.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prac34.ЫЫЫЫ">
+    <Position X="6.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
